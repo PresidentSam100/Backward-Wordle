@@ -1,2 +1,5 @@
 # Backward-Wordle
-Some random idea I had
+
+# Vertical-Wordle
+
+# Math-Wordle
